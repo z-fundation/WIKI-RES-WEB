@@ -10,6 +10,11 @@ cd Escritorio/WIKI-RES-WEB
 php -S localhost:8000
 
 ```
+``` BASH
+gpg -d wiki-res-web.zip.gpg
+
+```
+
 ## uprdate 1.0
 - nuevo estilo
 - mas webs-
